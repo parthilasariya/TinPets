@@ -2,14 +2,16 @@
 A tinder website made exclusively for Pets.
 
 
-#Tools Used
+# Tools Used
 The main framework used in building the TinDog website is Bootstrap and its components like Carousel, Card, Buttons, Navbar etc. It also used HTML5, CSS3 and Google Fonts and Font Awesome.
 
-#Link
+# Link
 https://parthilasariya.github.io/tinpets/
 
+# Screenshot
 
-#MIT License
+
+# MIT License
 
 Copyright (c) 2023 Parth Ilasariya
 
