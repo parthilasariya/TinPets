@@ -9,6 +9,8 @@ The main framework used in building the TinDog website is Bootstrap and its comp
 https://parthilasariya.github.io/tinpets/
 
 # Screenshot
+![tinpetsweb](https://user-images.githubusercontent.com/54209676/230239674-5f401f32-1b77-4da2-b502-50e6edc1708b.png)
+
 
 
 # MIT License
